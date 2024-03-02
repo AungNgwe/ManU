@@ -1,2 +1,8 @@
 # ManU
 Say Hi
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xeAB70E3a086Eb87F8203b1f30C2E243C8C59Af4E'
+quorum: 1
